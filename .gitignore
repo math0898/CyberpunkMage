@@ -1,3 +1,4 @@
 .import/
 .sconsign.dblite
 .gitignore
+*.so
