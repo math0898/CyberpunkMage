@@ -2,6 +2,8 @@
 .sconsign.dblite
 .gitignore
 *.so
+.vscode/
+
 # Unity generated
 [Ll]ibrary/
 [Tt]emp/
@@ -9,6 +11,7 @@
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+UserSettings/
 
 # Never ignore Asset meta data
 ![Aa]ssets/**/*.meta
